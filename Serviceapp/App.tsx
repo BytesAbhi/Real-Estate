@@ -10,8 +10,8 @@ const App = () => {
     <View>
       {/* <Splashscreen/> */}
       {/* <Login/> */}
-      {/* <SignUp/> */}
-      <HomeList/>
+      <SignUp/>
+      {/* <HomeList/> */}
     </View>
   )
 }
